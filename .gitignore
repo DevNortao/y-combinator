@@ -62,6 +62,8 @@ Thumbs.db
 .svn/
 CVS
 
+node_modules/
+
 # XCode 5 #
 ###########
 *.xcuserstate
