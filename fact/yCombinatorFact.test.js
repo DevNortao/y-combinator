@@ -1,5 +1,4 @@
-import yCombinatorFact from './yCombinatorFact';
-
+const yCombinatorFact = require('./yCombinatorFact');
 
 describe('Factorial function', () => {
   it('should return 1 when input is 1', ( ) => {
